@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Azox95
 - 👀 I’m interested in informatique
-- 🌱 I’m currently learning ... Le code JavaScript & C++
+- 🌱 I’m currently learning ... Le code Python & JavaScript & C++ 
 - 💞️ I’m looking to collaborate on ... React & C++
 - 📫 How to reach me ... Mail : support
 - 😄 Pronouns: ... Azox
