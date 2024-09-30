@@ -26,5 +26,3 @@ Voici quelques technologies et outils que j'utilise régulièrement :
 - **Git**
 - **Docker**
 
-```
-dfd
