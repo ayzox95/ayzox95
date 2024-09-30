@@ -12,3 +12,14 @@ J'adore résoudre des problèmes complexes et collaborer sur des projets open-so
 - 🌱 J'apprends actuellement [Technologie en apprentissage: Docker, Kubernetes, IA, etc.].
 - 💬 N'hésite pas à me contacter pour discuter de code, d'open-source ou de collaborations !
 - ⚡ Fait amusant: Je suis un grand fan de science-fiction et je code souvent en écoutant des soundtracks épiques !
+
+Voici quelques technologies et outils que j'utilise régulièrement :
+
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **Node.js**
+- **React**
+- **Python**
+- **Git**
+- **Docker**
