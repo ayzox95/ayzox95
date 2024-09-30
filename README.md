@@ -25,3 +25,5 @@ Voici quelques technologies et outils que j'utilise régulièrement :
 - **Python**
 - **Git**
 - **Docker**
+
+print(f'Follow {Azox} on Github')
