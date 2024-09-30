@@ -20,11 +20,11 @@ jobs:
         uses: Platane/snk@v2.0.0
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg
+          outputs: output/snake.svg  # Modifie ceci pour que l'image soit stockée dans le dossier output
 
       # Pousse l'animation vers la branche "output"
       - name: Push Snake to the repository
         uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output  # Branche "output"
-          build_dir: dist
+          build_dir: output
