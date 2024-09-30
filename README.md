@@ -24,4 +24,4 @@ Je suis un développeur passionné avec une expertise en **JavaScript**, **Pytho
 
 ### 🐍 Mon Snake
 
-![Snake animation](https://github.com/Azox95/Azox95/blob/output/snake.svg)
+![Snake animation](https://github.com/Azox95/Azox95/blob/output/snake.yml)
