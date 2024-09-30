@@ -26,4 +26,4 @@ Voici quelques technologies et outils que j'utilise régulièrement :
 - **Git**
 - **Docker**
 
-print(f'Follow {Azox} on Github')
+print(f'Follow {Alexis} on Github')
