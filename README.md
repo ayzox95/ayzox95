@@ -15,19 +15,7 @@ J'adore résoudre des problèmes complexes et collaborer sur des projets open-so
 
 Voici quelques technologies et outils que j'utilise régulièrement :
 
-- **HTML5**
-- **CSS3**
-- **JavaScript**
-- **Node.js**
-- **React**
-- **Python**
-- **Git**
-- **Docker**
-
 ## 🛠️ Technologies et Outils
-
-```markdown
-Voici quelques technologies et outils que j'utilise régulièrement :
 
 - **HTML5**
 - **CSS3**
