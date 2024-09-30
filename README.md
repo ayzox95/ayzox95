@@ -27,3 +27,5 @@ Voici quelques technologies et outils que j'utilise régulièrement :
 - **Docker**
 
 print(f'Follow {Azox} on Github')
+
+[![Suivez Azox sur GitHub](https://img.shields.io/badge/Suivez_Azox_sur_GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Azox95)
