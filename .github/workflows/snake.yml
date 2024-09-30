@@ -2,7 +2,7 @@ name: Update Snake
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Change le temps d'exécution selon vos préférences
+    - cron: '0 0 * * *' # Exécute tous les jours à minuit
 
 jobs:
   update-snake:
@@ -14,13 +14,11 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v2.0.0
         with:
-          github_user: 'Azox95'
-          # Ajoutez d'autres options si nécessaire
+          github_user: 'Azox95' # Remplacez par votre nom d'utilisateur GitHub
+          output: output/github-contribution-grid-snake.gif # Emplacement du gif généré
 
       - name: Commit and Push
         run: |
-          git config --local user.email "you@example.com"
-          git config --local user.name "Your Name"
-          git add .
-          git commit -m "Update snake"
+          git add output/github-contribution-grid-snake.gif
+          git commit -m "Update snake" || echo "No changes to commit"
           git push
