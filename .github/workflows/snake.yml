@@ -1,0 +1,30 @@
+name: Generate Snake
+
+# Déclenche l'animation chaque jour à minuit
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Exécution quotidienne
+  workflow_dispatch:  # Permet de déclencher manuellement
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Clone le dépôt
+      - name: Checkout the repository
+        uses: actions/checkout@v2
+
+      # Génère l'animation Snake
+      - name: Generate Snake Animation
+        uses: Platane/snk@v2.0.0
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: dist/snake.svg
+
+      # Pousse l'animation vers la branche "output"
+      - name: Push Snake to the repository
+        uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          target_branch: output  # Branche "output"
+          build_dir: dist
