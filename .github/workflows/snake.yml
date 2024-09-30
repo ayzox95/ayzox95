@@ -1,30 +1,33 @@
 name: Generate Snake
 
-# Déclenche l'animation chaque jour à minuit
 on:
   schedule:
-    - cron: "0 0 * * *"  # Exécution quotidienne
-  workflow_dispatch:  # Permet de déclencher manuellement
+    - cron: "0 0 * * *"  # Exécute tous les jours à minuit
+  workflow_dispatch:  # Permet d'exécuter le workflow manuellement
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      # Clone le dépôt
+      # 1. Vérifie le code du dépôt
       - name: Checkout the repository
         uses: actions/checkout@v2
 
-      # Génère l'animation Snake
+      # 2. Génère l'animation Snake
       - name: Generate Snake Animation
         uses: Platane/snk@v2.0.0
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: output/snake.svg  # Modifie ceci pour que l'image soit stockée dans le dossier output
+          github_user_name: ${{ github.repository_owner }}  # Utilise le nom d'utilisateur GitHub
+          outputs: output/snake.svg  # Indique où sauvegarder le fichier
 
-      # Pousse l'animation vers la branche "output"
-      - name: Push Snake to the repository
-        uses: crazy-max/ghaction-github-pages@v2.1.3
+      # 3. Ajouter et committer le fichier généré
+      - name: Commit and push the generated snake
+        uses: EndBug/add-and-commit@v9
         with:
-          target_branch: output  # Branche "output"
-          build_dir: output
+          author_name: github-actions  # Nom de l'auteur du commit
+          author_email: github-actions@github.com  # Email de l'auteur
+          message: "Update snake animation"  # Message du commit
+          add: "output/snake.svg"  # Indique le fichier à ajouter
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Utilise le token GitHub pour l'authentification
