@@ -21,4 +21,4 @@ jobs:
         run: |
           git add output/github-contribution-grid-snake.gif
           git commit -m "Update snake" || echo "No changes to commit"
-          git push
+          git push || echo "No changes to push"
