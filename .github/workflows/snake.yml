@@ -1,9 +1,6 @@
-name: Contribution Snake Animation
+name: Generate Snake Game
 
 on:
-  schedule:
-    # Met à jour tous les jours à minuit
-    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -11,29 +8,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Cloner le repository
+      - name: Cloner le repo
         uses: actions/checkout@v2
 
-      - name: Générer l'animation Snake
+      - name: Générer le Snake Game
         uses: Platane/snk@v2
         with:
           github_user_name: Azox95
           outputs: dist/snake.svg
-
-      - name: Commit et push
-        run: |
-          git config --local user.name "GitHub Actions"
-          git config --local user.email "actions@github.com"
-          git add dist/snake.svg
-          git commit -m "Mise à jour de l'animation Snake"
-          git push
-
-  output:
-    runs-on: ubuntu-latest
-    needs: generate
-    steps:
-      - name: Téléverser le fichier
-        uses: actions/upload-artifact@v2
-        with:
-          name: snake.svg
-          path: dist/snake.svg
