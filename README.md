@@ -27,7 +27,3 @@ Voici quelques technologies et outils que j'utilise régulièrement :
 - **Docker**
 
 print(f'Follow {Alexis} on Github')
-
-### 🐍 Snake Game Animation
-
-![Snake animation](https://github.com/Azox95/Azox95/blob/output/dist/snake.svg)
