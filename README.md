@@ -47,7 +47,5 @@ Clique sur les images ci-dessous pour accéder à mes profils :
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/azox_show/)
 [![YouTube](https://img.icons8.com/ios-filled/50/FF0000/youtube-play.png)](https://www.youtube.com/@alexis_rog)
 
-![Snake animation](https://github.com/Azox95/Azox95/blob/main/output/github-contribution-grid-snake.svg)
-
 ```python
 print(f'Follow {Alexis} on Github')
