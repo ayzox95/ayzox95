@@ -9,7 +9,7 @@ on:
 
 jobs:
   generate-snake:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest  # Ce sera mis à jour vers ubuntu-24.04 à l'avenir
 
     steps:
     - name: Checkout repository
@@ -19,8 +19,6 @@ jobs:
       uses: Platane/snk@v3.0.0
       with:
         github_user_name: 'Azox95'  # Remplace par ton nom d'utilisateur GitHub
-        entryPoint: 'generate.py'  # Le script à exécuter pour générer l'animation
-        args: '--github_username=Azox95'  # Nom d'utilisateur pour la génération du serpent
 
     - name: Commit and push the generated snake animation
       run: |
