@@ -37,7 +37,7 @@ Voici quelques-unes des technologies et outils que j'utilise régulièrement :
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azox95&layout=compact&theme=radical)  
 
 ---
-## 🌐 Autres réseaux
+## 🌐 Mes Réseaux
 
 Clique sur les images ci-dessous pour accéder à mes profils :
 
