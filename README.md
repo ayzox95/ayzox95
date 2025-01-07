@@ -37,5 +37,13 @@ Voici quelques-unes des technologies et outils que j'utilise régulièrement :
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azox95&layout=compact&theme=radical)  
 
 ---
+## 🌐 Autres réseaux
+
+Clique sur les images ci-dessous pour accéder à mes profils :
+
+[![LinkedIn](https://img.icons8.com/ios-filled/50/0077b5/linkedin.png)](https://www.linkedin.com/in/alexis-roger-a284b0209/)
+[![Twitter](https://img.icons8.com/ios-filled/50/1DA1F2/twitter.png)](https://x.com/azoox95)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/azox_show/)
+[![YouTube](https://img.icons8.com/ios-filled/50/FF0000/youtube-play.png)](https://www.youtube.com/@alexis_rog)
 
 print(f'Follow {Alexis} on Github')
