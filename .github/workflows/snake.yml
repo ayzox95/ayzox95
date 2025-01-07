@@ -2,7 +2,7 @@ name: Snake Game from GitHub Contributions
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Cette ligne permet de mettre à jour le serpent toutes les heures.
+    - cron: '0 * * * *'  # Mettre à jour l'animation toutes les heures
   push:
     branches:
       - main
@@ -18,9 +18,9 @@ jobs:
     - name: Generate snake game from GitHub contributions grid
       uses: Platane/snk@v3.0.0
       with:
-        github_user: 'Azox95'  # Remplace par ton nom d'utilisateur GitHub
-        svg: true  # Génère l'animation en format SVG
-        gif: false  # Si tu veux un fichier GIF, remplace par "true" et laisse "svg" à false
+        github_user_name: 'Azox95'  # Remplace par ton nom d'utilisateur GitHub
+        entryPoint: 'generate.py'  # Le script à exécuter pour générer l'animation
+        args: '--github_username=Azox95'  # Nom d'utilisateur pour la génération du serpent
 
     - name: Commit and push the generated snake animation
       run: |
