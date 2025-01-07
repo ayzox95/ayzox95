@@ -48,4 +48,4 @@ Clique sur les images ci-dessous pour accéder à mes profils :
 [![YouTube](https://img.icons8.com/ios-filled/50/D32F2F/youtube-play.png)](https://www.youtube.com/@alexis_rog)
 
 ```python
-print(f'Follow {Alexis} on Social Network')
+print(f'Follow {Alexis} on SocialNetwork')
