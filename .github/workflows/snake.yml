@@ -1,18 +1,31 @@
-name: Generate Snake Game
+name: Snake Game from GitHub Contributions
 
 on:
-  workflow_dispatch:
+  schedule:
+    - cron: '0 * * * *'  # Cette ligne permet de mettre à jour le serpent toutes les heures.
+  push:
+    branches:
+      - main
 
 jobs:
-  generate:
+  generate-snake:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Cloner le repo
-        uses: actions/checkout@v2
+    - name: Checkout repository
+      uses: actions/checkout@v2
 
-      - name: Générer le Snake Game
-        uses: Platane/snk@v2
-        with:
-          github_user_name: Azox95
-          outputs: dist/snake.svg
+    - name: Generate snake game from GitHub contributions grid
+      uses: Platane/snk@v3.0.0
+      with:
+        github_user: 'Azox95'  # Remplace par ton nom d'utilisateur GitHub
+        svg: true  # Génère l'animation en format SVG
+        gif: false  # Si tu veux un fichier GIF, remplace par "true" et laisse "svg" à false
+
+    - name: Commit and push the generated snake animation
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
+        git add output/github-contribution-grid-snake.svg
+        git commit -m "Update snake animation"
+        git push
