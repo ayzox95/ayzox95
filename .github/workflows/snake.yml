@@ -26,4 +26,4 @@ jobs:
         git config --global user.email "actions@github.com"
         git add output/github-contribution-grid-snake.svg
         git commit -m "Update snake animation"
-        git push
+        git push https://${{ secrets.GH_TOKEN }}@github.com/Azox95/Azox95.git HEAD:main
