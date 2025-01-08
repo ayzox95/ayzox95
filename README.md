@@ -12,7 +12,7 @@ J'adore résoudre des problèmes complexes et collaborer sur des projets open-so
 - 🔭 **Actuellement** : Je travaille sur des projets innovants dans le domaine de l'intelligence artificielle et des systèmes distribués.  
 - 🌱 **J'apprends** : Docker, Kubernetes, Intelligence Artificielle, et systèmes distribués.  
 - 💬 **Discutons** : Contactez-moi pour parler de **code**, d’**open-source** ou pour collaborer sur des projets passionnants !  
-- ⚡ **Fait amusant** : Je suis un fan de **science et chimie** et je code souvent en écoutant des soundtracks épiques.  
+- ⚡ **Fait amusant** : Je suis un fan de **science et chimie, médecine** et je code souvent en écoutant des soundtracks épiques.  
 
 ---
 
