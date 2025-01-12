@@ -33,8 +33,8 @@ Voici quelques-unes des technologies et outils que j'utilise régulièrement :
 
 ## 🏆 Statistiques GitHub
 
-![Alexis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Azox95&show_icons=true&theme=chartreuse-dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azox95&layout=compact&theme=chartreuse-dark)  
+![Alexis's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayzox95&show_icons=true&theme=chartreuse-dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayzox95&layout=compact&theme=chartreuse-dark)  
 
 ---
 
