@@ -43,7 +43,6 @@ Voici quelques-unes des technologies et outils que j'utilise régulièrement :
 Clique sur les images ci-dessous pour accéder à mes profils :
 
 [![LinkedIn](https://img.icons8.com/ios-filled/50/0077b5/linkedin.png)](https://www.linkedin.com/in/alexis-roger-a284b0209/)
-[![Patreon](https://img.icons8.com/ios-filled/50/FF424D/patreon.png)](https://www.patreon.com/c/AlexisRoger)
 [![Twitter](https://img.icons8.com/ios-filled/50/00ACEE/twitter.png)](https://x.com/ayzox95)
 [![Instagram](https://img.icons8.com/ios-filled/50/9C27B0/instagram.png)](https://www.instagram.com/ayzox_show/)
 [![YouTube](https://img.icons8.com/ios-filled/50/D32F2F/youtube-play.png)](https://www.youtube.com/@alexis_rog)
