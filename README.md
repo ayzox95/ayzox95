@@ -33,13 +33,25 @@ Voici quelques-unes des technologies et outils que j'utilise régulièrement :
 
 ## 🗄️ Bases de Données
 
-Voici les bases de données avec lesquelles j'ai travaillé :
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/color/96/000000/mongodb.png" width="48"/><br/>MongoDB
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/96/000000/mysql-logo.png" width="48"/><br/>MySQL
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/96/000000/postgreesql.png" width="48"/><br/>PostgreSQL
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/ios-filled/100/000000/sqlite.png" width="48"/><br/>SQLite
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/96/000000/redis.png" width="48"/><br/>Redis
+    </td>
+  </tr>
+</table>
 
 ## 🏆 Statistiques GitHub
 
