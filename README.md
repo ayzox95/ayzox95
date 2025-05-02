@@ -1,4 +1,4 @@
-> Salut, moi c’est **Alexis** ! 🧪  
+> Salut, moi c’est [**Alexis**](https://github.com/ton-profil) ! 🧪
 
 👨‍💻 Full Stack Developer | 🚀 Open Source Enthusiast | 💡 Lifelong Learner  
 
