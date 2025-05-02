@@ -33,25 +33,13 @@ Voici quelques-unes des technologies et outils que j'utilise régulièrement :
 
 ## 🗄️ Bases de Données
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.icons8.com/color/96/000000/mongodb.png" width="48"/><br/>MongoDB
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/96/000000/mysql-logo.png" width="48"/><br/>MySQL
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/96/000000/postgreesql.png" width="48"/><br/>PostgreSQL
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/ios-filled/100/000000/sqlite.png" width="48"/><br/>SQLite
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/96/000000/redis.png" width="48"/><br/>Redis
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/mongodb.png" alt="MongoDB" style="background-color:#47A248; border-radius:15px; padding:10px; margin:5px;" width="60"/>
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/mysql-logo.png" alt="MySQL" style="background-color:#00758F; border-radius:15px; padding:10px; margin:5px;" width="60"/>
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/postgreesql.png" alt="PostgreSQL" style="background-color:#336791; border-radius:15px; padding:10px; margin:5px;" width="60"/>
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/sqlite.png" alt="SQLite" style="background-color:#003B57; border-radius:15px; padding:10px; margin:5px;" width="60"/>
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/redis.png" alt="Redis" style="background-color:#DC382D; border-radius:15px; padding:10px; margin:5px;" width="60"/>
+</div>
 
 ## 🏆 Statistiques GitHub
 
