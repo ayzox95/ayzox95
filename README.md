@@ -1,4 +1,4 @@
-# 👋 Hello! I’m 𝑨𝒍𝒆𝒙𝒊𝒔.🧪
+> Salut, moi c’est **Alexis** ! 🧪  
 
 👨‍💻 Full Stack Developer | 🚀 Open Source Enthusiast | 💡 Lifelong Learner  
 
