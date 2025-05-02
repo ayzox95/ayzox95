@@ -31,15 +31,15 @@ Voici quelques-unes des technologies et outils que j'utilise régulièrement :
 
 ---
 
-## 🗄️ Bases de Données
+## 🗄️ Databases I Use
 
-<div align="center">
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/mongodb.png" alt="MongoDB" style="background-color:#47A248; border-radius:15px; padding:10px; margin:5px;" width="60"/>
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/mysql-logo.png" alt="MySQL" style="background-color:#00758F; border-radius:15px; padding:10px; margin:5px;" width="60"/>
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/postgreesql.png" alt="PostgreSQL" style="background-color:#336791; border-radius:15px; padding:10px; margin:5px;" width="60"/>
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/sqlite.png" alt="SQLite" style="background-color:#003B57; border-radius:15px; padding:10px; margin:5px;" width="60"/>
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/redis.png" alt="Redis" style="background-color:#DC382D; border-radius:15px; padding:10px; margin:5px;" width="60"/>
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" style="border-radius: 12px; margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" style="border-radius: 12px; margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" style="border-radius: 12px; margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48" style="border-radius: 12px; margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48" style="border-radius: 12px; margin: 10px;" />
+</p>
 
 ## 🏆 Statistiques GitHub
 
