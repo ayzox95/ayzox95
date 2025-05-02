@@ -31,15 +31,16 @@ Voici quelques-unes des technologies et outils que j'utilise régulièrement :
 
 ---
 
-## 🗄️ Databases I Use
+## 🗄️ Bases de Données
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" style="border-radius: 12px; margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" style="border-radius: 12px; margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" style="border-radius: 12px; margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48" style="border-radius: 12px; margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48" style="border-radius: 12px; margin: 10px;" />
-</p>
+Voici les bases de données avec lesquelles je travail :
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
 
 ## 🏆 Statistiques GitHub
 
