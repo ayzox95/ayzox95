@@ -1,4 +1,7 @@
-> Salut, moi c’est [**Alexis**](https://github.com/ton-profil) ! 🧪
+<pre style="background:#1e1e1e; color:#00ff95; padding:10px 20px; border-radius:10px; font-family:monospace; display:inline-block;">
+> Hi there, I'm Alexis ! 👋
+</pre>
+
 
 👨‍💻 Full Stack Developer | 🚀 Open Source Enthusiast | 💡 Lifelong Learner  
 
@@ -12,8 +15,8 @@ J'adore résoudre des problèmes complexes et collaborer sur des projets open-so
 - 🔭 **Actuellement** : Je travaille sur des projets innovants dans le domaine de l'intelligence artificielle et des systèmes distribués.  
 - 🌱 **J'apprends** : Docker, Kubernetes, Intelligence Artificielle, et systèmes distribués.  
 - 💬 **Discutons** : Contactez-moi pour parler de **code**, d’**open-source** ou pour collaborer sur des projets passionnants !  
-- ⚡ **Fait amusant** : Je suis un fan de **science et chimie, médecine** et je code souvent en écoutant des soundtracks épiques.  
-
+- ⚡ **Fait intéressant** : Je suis un fan de **science et chimie, médecine** et je code souvent en écoutant des soundtracks épiques.
+  
 ---
 
 ## 🛠️ Technologies et Outils
@@ -39,8 +42,6 @@ Voici les bases de données avec lesquelles je travail :
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
 
 ## 🏆 Statistiques GitHub
 
