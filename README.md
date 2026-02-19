@@ -43,11 +43,6 @@ Voici les bases de données avec lesquelles je travail :
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-## 🏆 Statistiques GitHub
-
-![Alexis's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayzox95&show_icons=true&theme=chartreuse-dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayzox95&layout=compact&theme=chartreuse-dark)  
-
 ---
 
 ## 🌐 Mes Réseaux
